@@ -2,6 +2,10 @@
 
 ## I'm a Filipino that enjoys learning new things...
 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Develop apps
+- ⚡ Fun fact: I love singing / playing games
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
