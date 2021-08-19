@@ -33,9 +33,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true)](https://github.com/csloyd)
+  <img align="left" alt="CSLoyD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true" />
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csloyd&layout=compact)](https://github.com/csloyd)
+  <img align="left" alt="CSLoyD's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csloyd&layout=compact" />
 </details>
 
 <!---
