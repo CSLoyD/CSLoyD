@@ -32,8 +32,9 @@
 
 <details>
   <summary>:zap: Languages Stats</summary>
+  <br />
 <!--   <img align="left" alt="CSLoyD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true" />
-  <br /><br /> -->
+  <br /> -->
   <img align="left" alt="CSLoyD's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csloyd&layout=compact" />
 </details>
 
