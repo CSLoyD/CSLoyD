@@ -31,11 +31,11 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true)](https://github.com/csloyd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csloyd&theme=synthwave&show_icons=true)](https://github.com/csloyd)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csloyd&layout=compact)](https://github.com/csloyd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csloyd&layout=compact)](https://github.com/csloyd)
 
 <!---
 CSLoyD/CSLoyD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
