@@ -7,7 +7,7 @@
 <br />
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other devs
 - 🥅 2024 Goals: Develop apps
 - ⚡ Fun fact: I love singing / playing games
 
